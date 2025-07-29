@@ -16,4 +16,4 @@ This is my personal portfolio website designed to showcase my academic backgroun
 - JavaScript  
 
 ## 🔗 Live Demo  
-[👉 Click here to view the live website](https://github.com/akankshapalisetty1/HTML-CSS-JS-Portfolio/)  
+[👉 Click here to view the live website](http://127.0.0.1:5500/)  
