@@ -17,11 +17,3 @@ This is my personal portfolio website designed to showcase my academic backgroun
 
 ## 🔗 Live Demo  
 [👉 Click here to view the live website](https://github.com/akankshapalisetty1/HTML-CSS-JS-Portfolio/)  
-*(Replace with your actual GitHub Pages or Netlify link)*
-
-![Projects](screenshots/projects.png)
-
----
-
-## 📁 Folder Structure  
-
